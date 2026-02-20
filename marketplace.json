@@ -1,16 +1,20 @@
- {
-"name": "codemedic42-plugins",
-"version": "1.0.0",
-"description": "Claude Code plugins",
-"plugins": {
-		"claude-dev-toolkit": {
-			"name": "claude-dev-toolkit",
-			"description": "Comprehensive toolkit for building Claude Code extensions",
-			"version": "1.0.0",
-			"author": "codemedic42",
-			"repository": "https://github.com/CodeMedic42/claude-dev-toolkit",
-			"source": "https://github.com/CodeMedic42/claude-dev-toolkit/archive/refs/tags/v1.0.0.tar.gz",
-			"keywords": ["development", "plugins", "skills", "toolkit"]
+{
+	"name": "codemedic42-plugins",
+	"version": "1.0.1",
+	"description": "Claude Code plugins",
+	"owner": {                                                                                             
+      "name": "CodeMedic42"                                                                                
+    },     
+	"plugins": [
+		{                                                                                                    
+			"name": "claude-dev-toolkit",                                                                      
+			"description": "Comprehensive toolkit for building Claude Code extensions",                        
+			"version": "1.0.1",                                                                                
+			"author": "CodeMedic42",                                                                           
+			"repository": "https://github.com/CodeMedic42/claude-dev-toolkit",                                 
+			"source": "https://github.com/CodeMedic42/claude-dev-toolkit/archive/refs/tags/v1.0.1.tar.gz",     
+			"keywords": ["development", "plugins", "skills", "toolkit"],                                       
+			"license": "MIT"                                                                                   
 		}
-	}
+	]
 }
