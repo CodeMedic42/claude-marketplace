@@ -1,0 +1,6 @@
+ {                                                                                                        
+    "name": "codemedic42-plugins",                                                                              
+    "version": "1.0.0",                                                                                    
+    "description": "Claude Code plugins",                                                        
+    "plugins": {}                                                                                          
+  }  
